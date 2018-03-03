@@ -1,0 +1,1 @@
+include ':app', ':SQLiteSample', ':SharedPreferenceSample', ':SettingSample', ':FilePathSample', ':a', ':ContentProviderSample'
